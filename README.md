@@ -1,3 +1,27 @@
+Scrapeflow — Intelligent Web Scraping Engine
+Scrapeflow is a modern, scalable web scraping engine that leverages headless browsers and Large Language Models (LLMs) to extract data from both static and JavaScript-heavy dynamic websites. It is designed to overcome the limitations of traditional scraping tools by simulating real user behavior and enhancing data parsing through AI.
+
+Features
+Headless scraping with Puppeteer and Curio
+
+AI-based content parsing using OpenAI/Gemini APIs
+
+GUI workflow builder using Next.js and React Flow
+
+Secure backend with Supabase, Prisma, and NextAuth
+
+IP rotation, session management, and task scheduling
+
+Highlights
+Dual-mode scraping: HTML selectors + AI extraction
+
+Real-time automation via webhooks and cron jobs
+
+Designed for both technical and non-technical users
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
